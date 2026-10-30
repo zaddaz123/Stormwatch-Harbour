@@ -1,0 +1,7 @@
+seed,policy,cargo_delivered,storm_knockouts,ships_created
+11,baseline,144,16,75
+12,baseline,144,16,74
+13,baseline,144,16,74
+11,model,130,0,75
+12,model,130,0,74
+13,model,130,0,74
